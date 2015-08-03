@@ -1,2 +1,2 @@
-# SwiftPlaygrounds
-Playgrounds to learn key concepts in Swift
+# Swift Playgrounds
+Playgrounds are like bicycles for the mind.
